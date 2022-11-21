@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "904060342426",
+    "project_id": "brilloconnectz-f7921",
+    "storage_bucket": "brilloconnectz-f7921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904060342426:android:7ad20dfdc87fa072178f23",
+        "android_client_info": {
+          "package_name": "com.brillo.dicksondurosakin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904060342426-kg4u9v3rige6p4n126su37qfse3rc6eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brillo.dicksondurosakin",
+            "certificate_hash": "e8f1dc732f48f89145be826724daee7ddab63613"
+          }
+        },
+        {
+          "client_id": "904060342426-r18bpncdlg9si4gob3t4onmve295s98v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSiSoAxfz0JVIbpmsiEpny1cr1scpC8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904060342426-r18bpncdlg9si4gob3t4onmve295s98v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904060342426-k7d5b1k0ap1us26gff40o74lnha8ua2n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brillo.dicksondurosakin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
